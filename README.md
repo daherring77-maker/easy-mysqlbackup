@@ -1,6 +1,6 @@
 # MySQL Backup Manager
 
-![GitHub release](https://img.shields.io/github/v/release/your-username/your-repo-name?label=Version&color=blue)
+![GitHub release](https://img.shields.io/github/v/release/daherring77-maker/easy-mysqlbackup?label=Version&color=blue)
 A lightweight, Streamlit-powered backup and restore utility designed specifically for small MySQL databases. Built to replace the deprecated backup/restore functionality in MySQL Workbench with a simple, modern, and easy-to-maintain alternative.
 
 ## 📖 Why This Tool?
